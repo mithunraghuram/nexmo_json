@@ -1,0 +1,10 @@
+[{
+		"action": "talk",
+		"text": "Welcome to Nexmo's Voice API. ",
+		"voiceName": "Amy"
+	},
+	{
+		"action": "stream",
+		"streamUrl": ["https://acme.com/streams/music.mp3"]
+	}
+]
